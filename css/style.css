@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height: 90px;
+	color: white;
+	background-color: orange;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+.box{
+
+}
+.contact{
+	width: 65%;
+	height: 500px;
+	color: white;
+	background-color: gray;
+	text-align: center;
+	float: left;
+}
+h2{
+	font-size: 50px;
+	font-weight: bold;
+}
+.blog{
+	width: 35%;
+	height: 500px;
+	color: white;
+	background-color: crimson;
+	text-align: center;
+	float: right;
+}
+.box{
+	overflow: hidden;
+}
+.one{
+	color: white;
+	background-color: brown;
+	text-align: center;
+	width: 33%;
+	height: 80px;
+	font-size: 40px;
+	float: left;
+}
+.two{
+	color: white;
+	background-color: orange;
+	text-align: center;
+	width: 34%;
+	height: 80px;
+	font-size: 40px;
+	float: left;
+}
+.three{
+	color: white;
+	background-color: seagreen;
+	text-align: center;
+	width: 33%;
+	height: 80px;
+	font-size: 40px;
+	float: left;
+}
